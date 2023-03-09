@@ -1,7 +1,0 @@
-<h2 id="why-is-this-important"><strong>Why is this important?</strong></h2>
-<p><strong>The viewport meta tag is an essential part of responsive web design, that may also offer some&nbsp;<a href="https://www.chromium.org/developers/design-documents/chromium-graphics/how-to-get-gpu-rasterization" target="_blank" rel="noopener">performance improvements</a>.</strong></p>
-<blockquote>
-<p><strong>Mobile browsers render pages in a virtual &ldquo;window&rdquo; (the viewport), usually wider than the screen, so they don&rsquo;t need to squeeze every page layout into a tiny window (which would break many non-mobile-optimized sites). Users can pan and zoom to see different areas of the page.</strong></p>
-<p><strong>Mobile Safari introduced the &ldquo;viewport meta tag&rdquo; to let web developers control the viewport&rsquo;s size and scale. Many other mobile browsers now support this tag.</strong></p>
-<p><strong>In recent years, screen resolutions have risen to the size that individual pixels are hard to distinguish with the human eye. For example, recent smartphones generally have a 5-inch screens with resolutions upwards of 1920&mdash;1080 pixels (~400 dpi). Because of this, many browsers can display their pages in a smaller physical size by translating multiple hardware pixels for each CSS &ldquo;pixel&rdquo;. Initially this caused usability and readability problems on many touch-optimized web sites.</strong></p>
-</blockquote>
